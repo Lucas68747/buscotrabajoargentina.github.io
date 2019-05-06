@@ -1,4 +1,9 @@
 ---
 label: Sukkkke
 hide_body: false
-fields: []
+fields:
+- name: hola_lince
+  type: text
+  config:
+    required: false
+  label: Hola lince
