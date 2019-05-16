@@ -10,6 +10,7 @@ published: true
 tags: [ ]
 categories:
   - Sin categoría
+img: 
 ---
 <ul>
 	<li>Buena paga</li>
