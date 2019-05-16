@@ -13,4 +13,4 @@ categories:
 ---
 Naaa son re vagos estos ladrones con título
 
-<img src="https://invested-meet.000webhostapp.com/wp-content/uploads/2019/05/2019-05-12-disenador.png" width="800" height="500" class="wp-image-40 alignnone size-full">
+<img class="size-medium wp-image-40 alignnone" src="https://invested-meet.000webhostapp.com/wp-content/uploads/2019/05/2019-05-12-disenador.png" width="300" height="188">
