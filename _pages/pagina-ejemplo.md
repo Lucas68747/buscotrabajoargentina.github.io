@@ -4,8 +4,6 @@ post_title: Página de ejemplo
 author: Admin
 post_excerpt: ""
 layout: page
-permalink: >
-  https://invested-meet.000webhostapp.com/pagina-ejemplo
 published: true
 post_date: 2019-05-16 05:57:28
 ---
