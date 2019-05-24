@@ -1,9 +1,12 @@
 ---
+title: Secretaria
+date: 2019-05-21 00:00:00 -03:00
+categories:
+- Secretaria
 layout: post
-title:  "Secretaria"
-categories: Secretaria
 img: image-2.png
 ---
+
 Importante empresa ubicada en la Zona Sur de Gran Buenos Aires, se encuentra en la búsqueda de una persona para ocupar la posición de Secretaria de Gerencia General.
 
 La posición requiere trabajar en zona de La Plata, siendo importante radicar en zona..

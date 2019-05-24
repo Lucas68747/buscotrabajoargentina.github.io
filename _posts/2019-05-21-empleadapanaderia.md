@@ -1,11 +1,11 @@
 ---
+title: Cajera
+date: 2019-05-21 00:00:00 -03:00
+categories:
+- cajera
 layout: post
-title:  "Cajera"
-categories: cajera
 img: image-2.png
 ---
-
- 
 
  **Se necesita empleada de mostrador para Panadería en Zona CABA.**
 

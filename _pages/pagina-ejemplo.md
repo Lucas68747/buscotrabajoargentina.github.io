@@ -2,11 +2,11 @@
 ID: 2
 post_title: Página de ejemplo
 author: Admin
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-published: true
-post_date: 2019-05-16 05:57:28
+post_date: 2019-05-16 02:57:28 -03:00
 ---
+
 <!-- wp:paragraph -->
 <p>Esta es una página de ejemplo. Es diferente a una entrada del blog porque permanecerá en un solo lugar y aparecerá en la navegación de tu sitio (en la mayoría de los temas). La mayoría de las personas comienzan con una página «Acerca de» que les presenta a los visitantes potenciales del sitio. Podrías decir algo así:</p>
 <!-- /wp:paragraph -->
