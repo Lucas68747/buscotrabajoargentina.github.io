@@ -2,7 +2,7 @@
 layout: post
 title:  "Encargado Hotel Boutique"
 categories: hotel
-img: image-1.png
+img: hotel.png
 ---
 
 **Nos encontramos en la búsqueda de personal para el puesto de Encargado Hotel Boutique.**
@@ -23,13 +23,21 @@ Tareas y Responsabilidades:
 Requisitos:
 
 **Sexo** :  Masculino.
+
 **Edad** :  Entre 24 y 35 años.
+
 **Nivel de Estudio** : Terciario.
+
 **Estado de Estudio** : Graduado
+
 **Áreas de Estudio** :  Administración de Empresas Hotelería Ingeniería Industrial.
+
 **Áreas de Experiencia Laboral** :  Alta Gerencia / Dirección Turismo / Hotelería.
+
 **Industrias de Experiencia Laboral** :  Hotelería.
+
 **Idiomas** :  Inglés  Portugués.
+
 **Zona de trabajo** : CABA.
 
 **Interesados enviar CV con foto por e-mail: info@infinitohotel.com 
