@@ -2,7 +2,7 @@
 layout: post
 title:  "Mozo de Salón y Ayudante de cocina"
 categories: hotel
-img: image-1.png
+img: mozo.png
 ---
 
 Importante Restaurante se encuentra en la búsqueda de Mozo de Salón y Ayudante de Cocina con experiencia.
