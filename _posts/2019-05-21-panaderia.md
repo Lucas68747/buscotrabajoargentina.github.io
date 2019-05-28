@@ -2,7 +2,7 @@
 layout: post
 title:  "Panadera"
 categories: cajera
-img: image-2.png
+img: cajera.png
 ---
 
  
