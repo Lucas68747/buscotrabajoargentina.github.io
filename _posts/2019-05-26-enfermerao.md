@@ -14,6 +14,8 @@ Nos encontramos en la búsqueda de Enfermera/o para importante empresa de curado
 **Interesados enviar CV con foto por e-mail: info@akrongroupsa.com    
 “Ref: Enfermera/o“**
 
+{% include adsense.html %}
+
 Requisitos:
 
 - Buena dicción
