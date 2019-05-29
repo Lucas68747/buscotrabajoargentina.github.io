@@ -30,6 +30,8 @@ Requisitos:
 
 **Estado de Estudio** : Graduado
 
+{% include adsense.html %}
+
 **Áreas de Estudio** :  Administración de Empresas Hotelería Ingeniería Industrial.
 
 **Áreas de Experiencia Laboral** :  Alta Gerencia / Dirección Turismo / Hotelería.
