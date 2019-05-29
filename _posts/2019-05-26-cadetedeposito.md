@@ -16,6 +16,8 @@ Se busca Cadete para depósito en Zona Obelisco.
 
 - Excelente presencia, responsable y prolijo. 
 
+{% include adsense.html %}
+
 **Horarios**: de 8.30 a 18.30 hs y sabados de 9 a 13.30 hs.
 
 **Experiencia minima 1 año.**
