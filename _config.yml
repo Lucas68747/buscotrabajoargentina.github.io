@@ -13,7 +13,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: Pablo Lezcano
+
 
 copyright:
    name: Pablo Lezca
@@ -33,9 +33,9 @@ disqus: no
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-twitter: http://twitter.com/@webjeda
-email: hello@webjeda.com
+
+
+email: buscotrabajoargentina@hotmail.com
 
 #facebook like box
 fb-like-box: no
