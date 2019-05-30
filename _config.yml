@@ -15,9 +15,6 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 
 
-copyright:
-   name: Pablo Lezca
-   link: 'https://pablolezcano.github.io/'
 
 # Build settings
 markdown: kramdown
