@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asistente back office  logística
+title: Asistente back office
 categories: logística
 img: logistica.png
 ---
