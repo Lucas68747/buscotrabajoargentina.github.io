@@ -5,4 +5,4 @@ layout: page
 adallow: 0
 ---
  
-Para comunicarse con nosotros puede escribir un e-mail a buscotrabajocaba@hotmail.com
+Para comunicarse con nosotros puede escribir un e-mail a **buscotrabajocaba1@gmail.com** .
