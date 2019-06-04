@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vendedora
-categories: vendedora
+title: Vendedora para tienda
+categories: vendedoras
 img: vendedora.png
 ---
 
