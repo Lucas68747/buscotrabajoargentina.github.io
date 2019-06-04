@@ -17,4 +17,4 @@ Las aptitudes requeridas son:
 - Servicial.
 - Carismática.
 
-**Interesadas enviar CV por e-mail a: shopplocales@hotmail.com **
+Interesadas enviar CV por e-mail a: shopplocales@hotmail.com 
