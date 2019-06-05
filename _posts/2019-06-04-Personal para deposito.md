@@ -4,6 +4,7 @@ title: Personal para depósito
 categories: depósito
 img: deposito.png
 ---
+{% include cartelrojo.html %}
 
 Seleccionaremos un empleado para depósito para Empresa de Zona Norte, GBA.
 
