@@ -9,7 +9,7 @@ Buscamos jóvenes con buena presencia, dicción, energía, dinamismo y entusiasm
 
 Si tenes entre 20 y 28 años, y contas con experiencias laborales de recepcionista no dejes pasar esta oportunidad! 
 
-{% include adsense.html %}
+{% include criptopublicidad.html %}
 
 _Requisitos excluyentes_ : 
 
@@ -31,7 +31,7 @@ _Ofrecemos_ :
 - Puestos a efectivizar.
 - Capacitaciones constantes.
 
- {% include adsense.html %}
+ {% include criptopublicidad.html %}
 
 **Interesados presentarse este lunes 10/06 a las 14hs en: Peña 2155, Recoleta, CABA.
 Concurrir con CV en mano, copia de CUIL, copia de DNI y constancia de secundario completo.**
