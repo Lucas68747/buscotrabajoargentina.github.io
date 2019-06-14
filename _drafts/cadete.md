@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cadete
+categories: Cadete
+img: "/images/correo.png"
+
+---
+Se necesita Cadete/a en Zona CABA.
+
+**Requisitos**:
+
+* Amplia experiencia en PC. 
+* Edad: 18 a 30 años.
+* Residir en Zona Belgrano, Villa Urquiza y alrrededores.
+
+ 
+
+**Interesados enviar CV por e-mail a: depositosdonguille@gmail.com** 
+
+**"Ref: Cadete/a"**
