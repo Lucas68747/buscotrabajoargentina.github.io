@@ -14,5 +14,6 @@ fields:
 - type: file
   name: img
   label: Imagen
+  hidden: true
 pages:
 - _posts/2019-06-14-cadete.md
