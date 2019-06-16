@@ -4,13 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Diseño
+  default: post
 - type: text
   name: title
-  label: title
+  label: Título
 - type: text
   name: categories
-  label: categories
+  label: Categorías
 - type: file
   name: img
-  label: img
+  label: Imágenes
