@@ -15,3 +15,5 @@ fields:
 - type: number
   name: adallow
   label: adallow
+pages:
+- contacto.md
