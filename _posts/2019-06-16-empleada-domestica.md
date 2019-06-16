@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empleada domestica
+title: Empleada doméstica
 categories: limpieza
 img: "/limpieza.png"
 ---
