@@ -4,13 +4,13 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Título
 - type: text
   name: permalink
-  label: permalink
+  label: Link Permanente
 - type: text
   name: layout
-  label: layout
+  label: Diseño
 - type: number
   name: adallow
   label: adallow
