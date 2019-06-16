@@ -2,7 +2,7 @@
 layout: post
 title: Lavadero de autos
 categories: limpieza
-img: ''
+img: "/lavadero.png"
 
 ---
 Se necesita Lavaautos en Zona CABA.
