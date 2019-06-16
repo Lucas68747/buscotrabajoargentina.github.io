@@ -16,5 +16,6 @@ fields:
   name: img
   label: Imágenes
 pages:
+- contacto.md
 - _posts/2019-06-16-empleada-doméstica.md
 - _posts/2019-06-16-lavadero-de-autos.md
