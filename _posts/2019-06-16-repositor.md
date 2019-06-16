@@ -2,7 +2,7 @@
 layout: post
 title: Repositor
 categories: supermercado
-img: "/images/repositor.png"
+img: "/repositor.png"
 
 ---
 Se necesita Repositor para supermercado en Zona CABA.
