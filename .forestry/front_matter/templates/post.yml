@@ -15,3 +15,5 @@ fields:
 - type: file
   name: img
   label: Imágenes
+pages:
+- _posts/lavadero-de-autos.md
