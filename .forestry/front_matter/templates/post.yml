@@ -16,4 +16,5 @@ fields:
   label: Imagen
   hidden: false
 pages:
+- _posts/empleada-doméstica.md
 - _posts/2019-06-14-cadete.md
