@@ -16,4 +16,5 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/auxiliar-de-farmacia.md
 - _posts/2019-06-16-lavadero-de-autos.md
