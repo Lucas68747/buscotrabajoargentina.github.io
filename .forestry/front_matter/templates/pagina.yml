@@ -3,14 +3,15 @@ label: Página
 hide_body: false
 fields:
 - type: text
+  name: layout
+  label: Diseño
+  default: page
+- type: text
   name: title
-  label: title
+  label: Título
 - type: text
   name: permalink
-  label: permalink
-- type: text
-  name: layout
-  label: layout
+  label: Link Permanente
 - type: number
   name: adallow
   label: adallow
