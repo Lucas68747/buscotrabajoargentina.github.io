@@ -2,7 +2,7 @@
 layout: post
 title: Empleada doméstica
 categories: limpieza
-img: "/limpieza.png"
+img: limpieza.png
 
 ---
 **AD Servicios** se encuentra en busca de personal femenino para trabajar con retiro, en importante residencia ubicada en la zona de Escobar.
