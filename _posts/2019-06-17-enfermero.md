@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enfermero
+title: Enfermero/a
 categories: salud
 img: "/enfermera.png"
 
