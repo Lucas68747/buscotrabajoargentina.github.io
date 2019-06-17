@@ -16,7 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
-- _posts/auxiliar-de-enfermería.md
-- _posts/playero.md
+- _posts/enfermero.md
 - _posts/2019-06-16-empleada-doméstica.md
+- _posts/playero.md
 - _posts/2019-06-16-lavadero-de-autos.md
