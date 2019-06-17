@@ -2,7 +2,6 @@
 title: Contacto
 permalink: "/contacto/"
 layout: page
-adallow: 0
 ---
 
 
