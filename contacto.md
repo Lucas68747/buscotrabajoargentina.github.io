@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Contacto
-permalink: contacto
-adallow: 
-
+permalink: "/contacto/"
+layout: page
+adallow: 0
 ---
+
+
 ### contacto@buscotrabajocaba.com
