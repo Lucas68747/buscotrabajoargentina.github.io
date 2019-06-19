@@ -5,6 +5,8 @@ categories: salud
 img: "/enfermera.png"
 
 ---
+Se busca Enfermero/a
+
 **Grupo Gestión.**
 
 Importante empresa de Logística Selecciona Enfermero con experiencia en medicina laboral.
