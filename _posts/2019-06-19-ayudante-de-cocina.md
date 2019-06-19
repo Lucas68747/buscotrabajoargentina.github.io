@@ -2,10 +2,10 @@
 layout: post
 title: Ayudante de cocina
 categories: cocinero
-img: ''
+img: "/20190619_134105_0000.png"
 
 ---
-Ayudante de cocina
+Ayudante de cocina.
 
 Para prestigiosa empresa en Capital Federal, necesitamos incorporar un Ayudante de Cocina, para garantizar un correcto proceso de preparación, elaboración y despacho.
 
