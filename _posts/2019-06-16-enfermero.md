@@ -5,7 +5,7 @@ categories: salud
 img: "/enfermera.png"
 
 ---
-Se busca Enfermero/a
+Se busca Enfermero/a.
 
 **Grupo Gestión.**
 
