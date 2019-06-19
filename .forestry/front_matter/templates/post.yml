@@ -16,6 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/encargado-de-estación-de-servicio.md
 - _posts/ayudante-de-cocina.md
 - _posts/2019-06-17-playero.md
 - _posts/2019-06-16-empleada-doméstica.md
