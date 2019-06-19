@@ -5,6 +5,8 @@ categories: limpieza
 img: "/limpieza.png"
 
 ---
+Empleada doméstica.
+
 Estamos en la búsqueda de empleada doméstica para trabajar en casa particular de Zona Norte (San Fernando).
 
 Responsabilidades:
@@ -17,5 +19,5 @@ Requisitos:
 * Experiencia comprobable en tareas similares.
 * Amplia disponibilidad horaria.
 
-**Interesados enviar CV por e-mail a: seleccion@confiarh.com.ar   
+**Interesados enviar CV por e-mail a: seleccion@confiarh.com.ar  
 "Ref: Personal Domestico"**
