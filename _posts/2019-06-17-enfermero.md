@@ -5,7 +5,7 @@ categories: salud
 img: "/enfermera.png"
 
 ---
-Se busca enfermero/a
+Se busca enfermero/a.
 
 En **Sanatorio San Pablo** nos encontramos en la búsqueda de un/a enfermero/a.
 
