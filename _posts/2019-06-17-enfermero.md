@@ -7,7 +7,7 @@ img: "/enfermera.png"
 ---
 Se busca enfermero/a.
 
-En **Sanatorio San Pablo** nos encontramos en la búsqueda de un/a enfermero/a.
+En **Sanatorio San Pablo** nos encontramos en la búsqueda de un enfermero/a.
 
 Para, en principio, cubrir una licencia y con futuras y serias posibilidades de incorporarse al staff fijo.
 
