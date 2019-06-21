@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lavadero de autos.
+title: Lavadero de autos
 categories: Lavadero
 img: "/lavadero.png"
 
