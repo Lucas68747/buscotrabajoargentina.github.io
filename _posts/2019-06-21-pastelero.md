@@ -9,7 +9,9 @@ Se necesita pastelero.
 
 **Se busca pastelero/repostero zona Almagro.**
 
-**Presentar C.V en Rojas 487**
+**Presentar C.V en La Rioja 487.** 
+
+**Local**: "Manjares Dulces".
 
 ![](/images/Adobe_Post_20190621_133330.png)
 
