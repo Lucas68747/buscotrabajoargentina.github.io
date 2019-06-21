@@ -16,6 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/analista-de-infraestructura.md
 - _posts/pastelero.md
 - _posts/2019-06-19-ayudante-de-cocina.md
 - _posts/2019-06-17-playero.md
