@@ -16,6 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/desarrollador-de-software.md
 - _posts/analista-de-infraestructura.md
 - _posts/pastelero.md
 - _posts/2019-06-19-ayudante-de-cocina.md
