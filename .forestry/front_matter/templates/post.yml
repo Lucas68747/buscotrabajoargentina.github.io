@@ -16,6 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/ayudante-de-parrilla.md
 - _posts/desarrollador-de-software.md
 - _posts/analista-de-infraestructura.md
 - _posts/pastelero.md
