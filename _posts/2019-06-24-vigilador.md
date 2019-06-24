@@ -2,7 +2,7 @@
 layout: post
 title: Vigilador.
 categories: seguridad
-img: ''
+img: "/20190623_152107_0000.png"
 
 ---
 Importante empresa de seguridad privada se encuentra en búsqueda de vigiladores para sumar a su equipo de trabajo. Buscamos gente con capacidad resolutiva y excelente trato hacia el cliente.  
