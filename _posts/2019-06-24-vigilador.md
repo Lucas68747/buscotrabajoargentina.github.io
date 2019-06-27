@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Vigilador.
+title: Vigilador
 categories: seguridad
 img: "/20190623_152107_0000.png"
 
 ---
-Importante empresa de seguridad privada se encuentra en búsqueda de vigiladores para sumar a su equipo de trabajo. Buscamos gente con capacidad resolutiva y excelente trato hacia el cliente.  
-  
+**Se necesita vigilador.**
+
+Importante empresa de seguridad privada se encuentra en búsqueda de vigiladores para sumar a su equipo de trabajo. Buscamos gente con capacidad resolutiva y excelente trato hacia el cliente.
+
 Los interesados deben contar con los siguientes requisitos (EXCLUYENTES):
 
 * Secundario completo (Analítico en mano).
@@ -20,5 +22,5 @@ Ofrecemos:
 * Pago en termino.
 * Posibilidades de crecimiento dentro de la compañía.
 
-**Interesados enviar CV por e-mail a: rrhh@murata.com.ar   
+**Interesados enviar CV por e-mail a: rrhh@murata.com.ar  
 Ref: "Vigiladores zona de moreno"**
