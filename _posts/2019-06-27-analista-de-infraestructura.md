@@ -2,9 +2,11 @@
 layout: post
 title: Analista de Infraestructura
 categories: ''
-img: ''
+img: "/desarrollador.png"
 
 ---
+Analista de Infraestructura.
+
 Importante Institución de Salud se encuentra en la búsqueda de un Analista de Infraestructura para su área de Sistemas.
 
 Entre las principales responsabilidades de la posición se encontrarán:
