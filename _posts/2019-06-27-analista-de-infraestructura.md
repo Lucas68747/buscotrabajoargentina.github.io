@@ -22,7 +22,7 @@ Entre las principales responsabilidades de la posición se encontrarán:
 
 • Atención y seguimiento de incidentes.
 
-Requisitos:
+**Requisitos**:
 
 • Ser estudiante intermedio de Sistemas y/ocarreras afines.
 
