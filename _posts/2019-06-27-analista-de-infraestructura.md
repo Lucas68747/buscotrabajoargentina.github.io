@@ -5,7 +5,6 @@ categories: ''
 img: "/desarrollador.png"
 
 ---
-Analista de Infraestructura.
 
 Importante Institución de Salud se encuentra en la búsqueda de un Analista de Infraestructura para su área de Sistemas.
 
@@ -41,8 +40,8 @@ Serán valorados aquellos candidatos que cuenten con vocación de servicio, proa
 
 Se ofrecen muy buenas condiciones de contratación y la posibilidad de desarrollarse en una clínica en plena etapa de expansión y crecimiento.
 
-Lugar de Trabajo: CABA norte
+**Lugar de Trabajo**: CABA norte
 
 Horario: Lunes a viernes de 9 a 17 Hs.
 
-Los interesados deberán enviar su CV a busquedayseleccion11@gmail.com indicando en el Asunto: Analista de Infraestructura
+**Los interesados deberán enviar su CV a busquedayseleccion11@gmail.com indicando en el Asunto: Analista de Infraestructura**
