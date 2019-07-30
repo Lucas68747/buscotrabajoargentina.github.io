@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Publicá tu oferta de empleo
-permalink: "/oferta-empleo/"
+title: Publicá tu aviso
+permalink: "/pública-tu-aviso/"
 adallow: 0
 published: false
 
 ---
-Esta sección está orientada a las PyMEs y/o empresas en búsquedas de vacantes. 
+Publicar aviso
 
- **BuscoTrabajoCaba** te ofrece la facilidad de encontrar el vacante que estás necesitando para el puesto de empleo que estás buscando cubrir.
+Elegí el aviso que mejor se adapta a tus necesidades de manera rápida y sencilla. Administrá tus búsquedas y encontrá los mejores candidatos para el reclutamiento de personal de tu empresa.
 
  
 
