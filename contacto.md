@@ -2,7 +2,7 @@
 title: Contacto
 permalink: "/contacto/"
 layout: page
-adallow: 
+adallow: 0
 
 ---
 **contacto@buscotrabajocaba.com**
