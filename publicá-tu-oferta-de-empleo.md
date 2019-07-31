@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publicá tu aviso
-permalink: "/pública-tu-aviso/"
+permalink: "/publica-tu-aviso/"
 adallow: 0
 
 ---
