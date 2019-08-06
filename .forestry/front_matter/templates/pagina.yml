@@ -13,5 +13,6 @@ fields:
   name: permalink
   label: Link Permanente
 pages:
+- Blog/blog.md
 - contacto.md
 - publicá-tu-oferta-de-empleo.md
