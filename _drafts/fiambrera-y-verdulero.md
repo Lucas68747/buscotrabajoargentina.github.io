@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiambrera y Verdulero
+title: Fiambrera y verdulero
 categories: ''
 img: ''
 
