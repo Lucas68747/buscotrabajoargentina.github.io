@@ -4,7 +4,7 @@ email: contacto@buscotrabajocaba.com
 description: > # this means to ignore newlines until "baseurl:"
   Sitio Web con ofertas de trabajo en CABA.
 
-image: "/images/logobtc.png"
+image: "/images/logo-btc.png"
 baseurl: "/buscotrabajoargentina.github.io" # the subpath of your site, e.g. /blog
 url: "https://buscotrabajocaba.com" # the base hostname & protocol for your site
 
