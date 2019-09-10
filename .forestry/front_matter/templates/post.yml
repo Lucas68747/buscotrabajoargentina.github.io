@@ -16,9 +16,9 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/2019-09-10-fiambrera-y-verdulero.md
 - _posts/2019-09-09-supervisor-de-depósito-y-logística.md
 - _posts/2019-09-09-operarios-de-carga-y-descarga.md
-- _posts/fiambrera-y-verdulero.md
 - _posts/personal-de-carnicería.md
 - _posts/2019-08-06-cuidador-a.md
 - _posts/2019-06-23-ayudante-de-parrilla.md
