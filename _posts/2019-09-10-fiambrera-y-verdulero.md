@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Fiambrera y verdulero
-categories: ''
-img: ''
+categories: atención al publico
+img: "/fiambreria.png"
 
 ---
 Se necesita Fiambrera y Verdulero para supermercado en Zona CABA.
 
 **Interesados presentarse en: Juramento 4940, CABA.**
-
-**4521-3667**
 
 ### Requisitos:
 
