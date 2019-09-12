@@ -16,6 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
+- _posts/vendedor.md
 - _posts/personal-para-lavadero-de-autos.md
 - _posts/jefe-de-cocina.md
 - _posts/ayudante-de-cocina-y-pizzero.md
