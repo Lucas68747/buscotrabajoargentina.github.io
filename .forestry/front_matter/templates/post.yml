@@ -16,7 +16,7 @@ fields:
   name: img
   label: Imágenes
 pages:
-- _posts/cajero.md
+- _posts/2019-09-12-cajero.md
 - _posts/2019-09-11-personal-de-carnicería.md
 - _posts/2019-09-10-fiambrera-y-verdulero.md
 - _posts/2019-09-09-supervisor-de-depósito-y-logística.md
