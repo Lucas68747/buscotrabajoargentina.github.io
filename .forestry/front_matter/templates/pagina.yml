@@ -13,6 +13,7 @@ fields:
   name: permalink
   label: Link Permanente
 pages:
+- políticas-de-privacidad.md
 - términos-y-condiciones-de-uso.md
 - publicá-tu-oferta-de-empleo.md
 - contacto.md
