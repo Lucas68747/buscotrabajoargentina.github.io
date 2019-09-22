@@ -13,5 +13,5 @@ fields:
   name: permalink
   label: Link Permanente
 pages:
-- contacto.md
 - publicá-tu-oferta-de-empleo.md
+- contacto.md
