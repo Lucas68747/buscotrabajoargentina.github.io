@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Términos y condiciones de uso
-permalink: Terminos-y-condiciones
 
 ---
 ## Términos y condiciones de uso.
