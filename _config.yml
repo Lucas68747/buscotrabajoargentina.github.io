@@ -13,10 +13,6 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-Terminos:
-    name: link 
-    link: https://www.buscotrabajocaba.com/terminos-y-condiciones
-
 # Build settings
 markdown: kramdown
 permalink: /:title/
