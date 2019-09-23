@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Términos y condiciones de uso
 permalink: "/terminos-y-condiciones/"
-
+layout: page
+adallow: 0
 ---
 
 A continuación se encuentran los Términos y Condiciones Generales, (los “Términos y Condiciones”), del uso de la página web: BuscoTrabajoCABA.com los cuales regulan la relación entre Usted (el “Usuario”) y BuscoTrabajoCABA.com, por el ingreso, uso de contenidos y contratación de productos y/o servicios ofrecidos en el Sitio. Al momento de utilizar el Sitio, el Usuario admite haber leído los términos y condiciones y aceptarlos en forma total y sin reservas. En caso de no estar de acuerdo con ellos, el Usuario no debe ingresar y/o utilizar el sitio. Reservamos el derecho a modificar esta declaración de términos y condiciones en cualquier momento. Su uso continuo de cualquier porción de este sitio tras la notificación o anuncio de tales modificaciones constituirá su aceptación de tales cambios.

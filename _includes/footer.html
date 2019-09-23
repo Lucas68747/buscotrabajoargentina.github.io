@@ -5,6 +5,10 @@
                 <div class="col-md-4 text-center mt25">All rights reserved by <a target="_blank" href="{{site.copyright.link}}">{{site.copyright.name}}</a></div>
             {% endif %}
 
+            {% if site.terminos.name %}
+                <div class="col-md-4 text-center mt25">Términos y condiciones <a target="_blank" href="{{site.terminos.link}}">{{site.terminos.name}}</a></div>
+            {% endif %}
+
             <div class="col-md-4 text-center mt25" >
                 {% if site.built-by %}
                 <a target="_blank" href="http://webjeda.com"><img src="https://img.shields.io/badge/Built%20by-pablolezca-blue.svg" alt="{{site.built-by}}"></a>
@@ -23,6 +27,6 @@
                <li class="social email"><em class="fa fa-envelope"></em></li>
             </a> {% endif %} </div>
 
-        </div> 
+        </div>
     </div>
 </footer>
