@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
 image: logo-btc.png
 baseurl: "/buscotrabajoargentina.github.io" # the subpath of your site, e.g. /blog
 url: "https://buscotrabajocaba.com" # the base hostname & protocol for your site
-url: "https://localhost"
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -21,7 +20,6 @@ permalink: /:title/
 paginate: 9
 paginate_path: /page:num/
 
-port: 3000
 
 # Tracker
 analytics: UA-140961567-1
