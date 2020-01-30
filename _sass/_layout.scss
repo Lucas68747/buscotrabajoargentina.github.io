@@ -41,10 +41,10 @@ img {
     padding: 20px 0;
 }
 .navbar-brand {
-    font-weight: 900;
-    font-size: 1.85em;
-    padding: 10px;
-    margin-left: 15px !important;
+    font-weight: none;
+    font-size: none;
+    padding: none;
+    margin-left: 10px !important;
     @media screen and (max-width: $on-palm) {
         font-size: 1.5em;
     }
