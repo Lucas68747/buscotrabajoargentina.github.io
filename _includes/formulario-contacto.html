@@ -1,31 +1,41 @@
-<!--me falta terminar, no esta listo todavia-->
-<form>
-    <div class="col-lg-6">
-  <div class="contact-form form-style-one mt-35 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-      <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSdYzg_keyBchfcUqJNtp6xHlGOZWH-Yn3qvV9kpb2OFwSebVQ/formResponse">
-          <div class="form-input mt-15">
-              <label>Nombre y apellido</label>
-              <div class="input-items default">
-                  <input name="entry.1624585946" type="text" />
-                  <i class="lni-user"></i>
-              </div>
-          </div> <!-- form input -->
-          <div class="form-input mt-15">
-              <label>Correo</label>
-              <div class="input-items default">
-                  <input name="entry.1466188528" type="email" required />
-                  <i class="lni-envelope"></i>
-              </div>
-          </div> <!-- form input -->
-          <div class="form-input mt-15">
-              <label>Mensaje</label>
-              <div class="input-items default">
-                  <textarea placeholder="Mensaje" name="massage"></textarea>
-                  <i class="lni-pencil-alt"></i>
-              </div>
-          </div> <!-- form input -->
-          <p class="form-message"></p>
-          <div class="form-input rounded-buttons mt-20">
-              <button tysubmitbmit class="main-btn" rounded-three>Enviar</button>
-          </div> <!-- form input -->
+<html>
+ <script type="text/javascript">var submitted=false;</script>
+         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='{{base.site}}/buscotrabajoargentina.github.io/gracias-por-contactarse/';}"></iframe>
+
+<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScMZfOU8OMGQ1ywERNSjuVOk5FbCOOSR97KepyEtfYElMkyPA/formResponse" method="post" target="hidden_iframe"
+onsubmit="submitted=true;">
+
+    <div>
+        <fieldset>
+            <legend>Nombre y Apellido</legend>
+    <input name="entry.714850082" type="text" size="40" required />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Email</legend>
+    <input name="entry.1114703371" type="email" size="40" required />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Asunto</legend>
+    <input name="entry.985354390" type="text" size="40" required />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Mensaje</legend>
+            <textarea name="entry.1631857976" rows="4" cols="40" placeholder="Escriba algo" required></textarea>
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+    <input type="submit" value="Enviar" />
+    </div>
+
 </form>
+</html>
