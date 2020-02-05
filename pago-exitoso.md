@@ -6,6 +6,7 @@ adallow: 0
 
 # ¡Gracias por su compra!
 
-### OPERACIÓN REALIZADA POR MEDIO DE MERCADO PAGO
+### OPERACIÓN EXITOSA REALIZADA POR MEDIO DE MERCADO PAGO
 
-Su pago fue informado como "Pago exitoso" por la empresa de cobranzas.
+Seras reenderizado para llenar los datos del puesto de trabajo a ofrecer.
+
