@@ -1,8 +1,8 @@
-I"í<p>Para enviarnos consultas sobre los empleos publicados u otra inquietud, realiz√° el siguiente formulario.</p>
+I"≤<p>Para enviarnos consultas sobre los empleos publicados u otra inquietud, realiz√° el siguiente formulario.</p>
 
 <html>
  <script type="text/javascript">var submitted=false;</script>
-         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/buscotrabajoargentina.github.io/gracias-por-contactarse/';}"></iframe>
+         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/buscotrabajoargentina.github.io/buscotrabajoargentina.github.io/gracias-por-contactarse/';}"></iframe>
 
 <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScMZfOU8OMGQ1ywERNSjuVOk5FbCOOSR97KepyEtfYElMkyPA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 
