@@ -13,6 +13,5 @@ img: secretaria.png
 
 - Contar con Refererencias.
 
- {% include adsense.html %}
 
 **Interesados enviar CV actualizado por e-mail a: zulma307@gmail.com**

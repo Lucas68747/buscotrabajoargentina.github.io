@@ -13,7 +13,6 @@ img: cajera.png
 
 _Interesadas Presentarse en: Av. Corrientes 3961, CABA._
 
-{% include adsense.html %}
 
 **Requisitos**:
 - Buena dicción

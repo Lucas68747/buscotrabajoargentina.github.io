@@ -12,7 +12,6 @@ ADN - RECURSOS HUMANOS
 _Detalle_:
 - Personal limpieza para trabajar de 8 a 15hs harán limpieza general y servir colaciones.
 
-{% include adsense.html %}
 
 -  **Lugar de Trabajo** : Recoleta, CABA.
 - **Lugar de residencia** : preferentemente por la zona.
@@ -27,7 +26,6 @@ _Detalle_:
 
 La persona que asuma este puesto tendrá la posibilidad de desarrollarse dentro de un equipo de profesionales de alta calidad, con excelente ambiente laboral, remuneración acorde al desafío, más otros beneficios.
 
-{% include adsense.html %} 
 
 **Interesados enviar CV por e-mail a: info@adnrh.com.ar
 "Ref: Limpieza"**

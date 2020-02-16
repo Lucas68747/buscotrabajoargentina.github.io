@@ -23,7 +23,6 @@ Algunas de sus funciones serán:
 
 - Es excluyente radicar en zona.
 
-{% include adsense.html %}
 
 **Se ofrece**:
 

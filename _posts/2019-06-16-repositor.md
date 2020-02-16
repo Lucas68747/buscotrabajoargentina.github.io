@@ -9,7 +9,6 @@ Se necesita Repositor para supermercado en Zona CABA.
 
 Contar con experiencia en el puesto y DNI.
 
-{% include adsense.html %}
 
 **Interesados presentarse en: Serrano 307, CABA.**
 

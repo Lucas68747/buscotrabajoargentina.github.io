@@ -8,7 +8,6 @@ img: repositor.png
 Para importante empresa alimenticia, nos encotramos en la búsqueda de un Repositor externo, para desempeñarse en mercados de GBA Norte (José C. Paz, General Pacheco, El Talar, Tortuguitas).
 
 
-{% include adsense.html %}
 
 Dentro de sus tareas se encuentran la reposición de productos de la marca en diferentes hipermercados y supermercados de la zona, mantenimiento del orden y visibilidad de productos en góndola, manejo de material POP, entre otras.
 
@@ -16,7 +15,6 @@ Nos orientamos a personas con secundario completo, que posean al menos dos años
 
 Se ofrecen interesantes condiciones de contratación, en una empresa de primera línea.
 
-{% include adsense.html %}
 
 Lugar de trabajo: José C Paz, Malvinas Argentinas, San Miguel
 

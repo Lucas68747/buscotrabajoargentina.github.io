@@ -17,7 +17,6 @@ Buscamos a las mejores operadoras de call center para:
 - Buena diccíon, ser amable y cordial para la atención telefónica.
 - Perfil comercial, orientado a resultados.
  
-{% include adsense.html %}
 
 **Ofrecemos las mejores condiciones comerciales** : curso de capacitación, **SUELDO FIJO** , comisiones y premios.
 El régimen de trabajo es de lunes a viernes de 17 a 21hs en la zona de microcentro.
@@ -27,4 +26,3 @@ El régimen de trabajo es de lunes a viernes de 17 a 21hs en la zona de microcen
 **Interesadas enviar CV con foto por e-mail a: rrhh@cobertec.com.ar 
 "Ref: Operadora para cobertura de Salud"**
 
-{% include adsense.html %}

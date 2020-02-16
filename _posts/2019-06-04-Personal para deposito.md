@@ -8,7 +8,6 @@ img: deposito.png
 
 Seleccionaremos un empleado para depósito para Empresa de Zona Norte, GBA.
 
-{% include adsense.html %}
 
 Nos orientamos a un colaborador con estudios secundarios completos y experiencia en la función, adquirida preferentemente, en Droguerías, Farmacias y/o Supermercados.
 
@@ -23,7 +22,6 @@ Nos orientamos a un colaborador con estudios secundarios completos y experiencia
 
 Se ofrecen atractivas condiciones de sueldo, comedor en la Empresa y amplios beneficios.
 
-{% include adsense.html %}
 
  **Horario a cubrir:**
 

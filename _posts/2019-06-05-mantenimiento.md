@@ -8,7 +8,6 @@ img: mantenimiento.png
 
 Nos encontramos en la búsqueda de un hombre de entre 30 a 50 años, que resida en Zona Sur, para MANTENIMIENTO Y LIMPIEZA para trabajar en la zona de Florencio Varela .
 
- {% include adsense.html %}
 
 _Requisitos_:
 - Buena dicción
@@ -20,4 +19,3 @@ _Requisitos_:
 "Ref: Mantenimiento y limpieza"
 **
 
-{% include adsense.html %}

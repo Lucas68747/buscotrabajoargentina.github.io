@@ -17,7 +17,6 @@ _Las tareas están enfocadas en_ :
 - Entre otras.
 - Horario de trabajo de lunes a viernes de 7 a 20hs.
  
-{% include adsense.html %}
 
 **Interesados enviar CV por e-mail a:** consultora@chaxxel.com.ar 
 "Ref: Personal Domestico"

@@ -4,7 +4,6 @@ title: Empleada de limpieza
 categories: limpieza
 img: limpieza.png
 ---
-{% include adsense.html %}
 Importante empresa dedicada a la fabricación de electrodomésticos ubicada en la zona de Lomas del Mirador, se encuentra en la búsqueda de un Operario de limpieza, en principio para cubrir licencia por vacaciones de dos semanas.
 
 **EXCLUYENTE** poseer experiencia previa de al menos un año en limpieza de fábricas.
@@ -14,4 +13,3 @@ Importante empresa dedicada a la fabricación de electrodomésticos ubicada en l
 **Interesadas enviar CV con foto por e-mail: seleccion@dosargentina.com.ar
 "Ref: Empleada de Limpieza"**
 
-{% include adsense.html %}

@@ -17,7 +17,6 @@ _Requisitos_:
 - Disponibilidad horaria Full Time. 
 - Excelente trato con clientes y empleados.
 
-{% include adsense.html %}
 _Se ofrece_:
 - Incorporación Inmediata.
 - Capacitación a cargo de la firma.
@@ -29,4 +28,3 @@ _Presentarse_:
 
 **Dirección: Av. Rivadavia 755 Piso 1 Dto “A”, Buenos Aires, Argentina
 **
-{% include adsense.html %}

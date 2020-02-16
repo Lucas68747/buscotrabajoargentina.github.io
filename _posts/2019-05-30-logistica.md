@@ -7,7 +7,7 @@ img: logistica.png
 
 **LV Consultores** está en búsqueda de una Asistente back office-logística para empresa de tecnología.
 
-{% include adsense.html %}
+
 
 **Tareas a realizar**:
 
@@ -19,7 +19,7 @@ img: logistica.png
 - Seguimiento
 - etc.
 
-{% include adsense.html %}
+
 
 **Requisitos y competencias requeridas**:
 
@@ -35,6 +35,6 @@ img: logistica.png
 
 **Zona de trabajo**: San Telmo, CABA.
  
-{% include adsense.html %}
+
 
 **Interesadas enviar CV por e-mail a: seleccion@lvconsultores.com.ar**

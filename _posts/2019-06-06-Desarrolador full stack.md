@@ -9,7 +9,6 @@ Para reconocido laboratorio Farmacéutico, nos encontramos en la búsqueda de De
 
 Nos orientamos a estudiantes avanzados de Lic. en Sistemas o afines, con marcado perfil analítico y fuertes capacidades de trabajo en equipo.
 
-{% include adsense.html %}
 
 _Requisitos_:
 
@@ -28,4 +27,3 @@ _Modalidad de Contratación_:
 
 **Aquellos interesados, deberán enviar su CV con ref. Desarrollador Full Stack a la casilla empleoscentro@pullmen.com**
 
-{% include adsense.html %}
