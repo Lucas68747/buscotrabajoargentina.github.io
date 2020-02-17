@@ -2,7 +2,7 @@
 layout: post
 title: Administrativa/o
 categories: administrativo
-img: "/vendedor01.jpg"
+img: "/contadorweb.jpg"
 
 ---
 Se necesita empleado responsable en administración y finanzas.
