@@ -1,0 +1,150 @@
+I"Q<p><strong>En esta sección usted puede publicar sus avisos,</strong> los mismos tienen un valor de <strong>$100 ARS</strong>, para tener mayor visibilidad y duración en la web.</p>
+
+<p>El pago se hace por MercadoPago y aceptamos todos los medios de pagos de la plataforma.</p>
+
+<html>
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/buscotrabajoargentina.github.io/reedirecionando-a-mercadopago.html';}"></iframe>
+
+<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSfStbn6hqmiDzwbuF47VQ7dsaMPcP2pGlmjZTSFfC_K4intgA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+
+    <div>
+
+        <fieldset>
+            <legend>Nombre comercial de la empresa *</legend>
+    <input name="entry.901495871" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>¿En qué barrio se encuentra? *</legend>
+    <input name="entry.1574974168" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Dirección *</legend>
+    <input name="entry.1320516198" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Sector empresarial *</legend>
+            
+            <select name="entry.1573114190" type="option">
+                <option value="Elegir">Elegir</option>
+                <option value="Agricultura / Pesca / Ganaderia">Agricultura / Pesca / Ganaderia</option>
+                <option value="Construcción / obras">Construcción / obras</option>
+                <option value="Educación">Educación</option>
+                <option value="Energía">Energía</option>
+                <option value="Entretenimiento / Deportes">Entretenimiento / Deportes</option>
+                <option value="Fabricación">Fabricación</option>
+                <option value="Finanzas / Banca">Finanzas / Banca</option>
+                <option value="Hostelería / Turismo">Hostelería / Turismo</option>
+                <option value="Informática / Hardware">Informática / Hardware</option>
+                <option value="Informática / Software">Informática / Software</option>
+                <option value="Internet">Internet</option>
+                <option value="Legal / Asesoría">Legal / Asesoría</option>
+                <option value="Medios de Comunicación">Medios de Comunicación</option>
+                <option value="Publicidad / RRPP">Publicidad / RRPP</option>
+                <option value="Salud / Medicina">Salud / Medicina</option>
+                <option value="Telecomunicaciones">Telecomunicaciones</option>
+                <option value="Transporte">Transporte</option>
+                <option value="Venta al consumidor">Venta al consumidor</option>
+                <option value="Venta al por mayor">Venta al por mayor</option>
+                <option value="Otro">Otro</option>
+              </select>
+              &nbsp;
+              <div>
+    
+                    
+              <input name="entry.925222347" type="text" size="40" />
+                  
+              </div>
+              &nbsp;
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Tipo de empresa * </legend>
+            
+            <select name="entry.535624691" type="option">
+                <option value="Elegir">Elegir</option>
+                <option value="Agencia de reclutamiento">Agencia de reclutamiento</option>
+                <option value="Empleador directo">Empleador directo</option>
+                <option value="Servicios temporales">Servicios temporales</option>
+              </select>
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Descripción de la empresa * </legend> 
+    <input name="entry.1991167598" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Pagina web de la empresa o red social *</legend> 
+    <input name="entry.1142190230" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Datos de contacto</legend> 
+    
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Nombre *</legend> 
+    <input name="entry.327066877" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Apellido *</legend> 
+    <input name="entry.1282437187" type="text" size="40" required="" />
+        </fieldset>
+    </div> 
+    &nbsp;  
+    <div>
+        <fieldset>
+            <legend>Cargo *</legend>
+            
+            <select name="entry.1943694061" type="option">
+                <option value="Elegir">Elegir</option>
+                <option value="Presidente">Presidente</option>
+                <option value="Director">Director</option>
+                <option value="Gerente">Gerente</option>
+                <option value="Jefe">Jefe</option>
+                <option value="Coordinador">Coordinador</option>
+                <option value="Analista">Analista</option>
+                <option value="Otro">Otro</option>
+              </select>
+
+        </fieldset>
+    </div> 
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Email de contacto *</legend> 
+    <input name="entry.1117961617" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+    <input type="submit" value="Pagar" />
+    </div>
+
+</form>
+</html>
+:ET

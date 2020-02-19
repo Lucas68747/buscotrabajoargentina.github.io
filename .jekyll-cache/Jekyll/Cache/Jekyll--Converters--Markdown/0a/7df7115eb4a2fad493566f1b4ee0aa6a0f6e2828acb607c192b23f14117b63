@@ -1,4 +1,4 @@
-I"�<p><strong>En esta sección usted puede publicar sus avisos,</strong> los mismos tienen un valor de <strong>$100 ARS</strong>, para tener mayor visibilidad y duración en la web.</p>
+I"�<p><strong>En esta sección usted puede publicar sus avisos,</strong> los mismos tienen un valor de <strong>$100 ARS</strong>, para tener mayor visibilidad y duración en la web.</p>
 
 <p>El pago se hace por MercadoPago y aceptamos todos los medios de pagos de la plataforma.</p>
 
@@ -55,8 +55,16 @@
                 <option value="Transporte">Transporte</option>
                 <option value="Venta al consumidor">Venta al consumidor</option>
                 <option value="Venta al por mayor">Venta al por mayor</option>
+                <option value="Otro">Otro</option>
               </select>
-
+              &nbsp;
+              <div>
+    
+                    
+              <input name="entry.925222347" type="text" size="40" />
+                  
+              </div>
+              &nbsp;
         </fieldset>
     </div>
     &nbsp;
