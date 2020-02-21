@@ -15,9 +15,8 @@ sections:
   label: Contacto
   read_only: true
 - type: document
-  path: avisos-dashboard.md
+  path: aviso-dashboard.md
   label: Avisos
-  match: "**/*"
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
