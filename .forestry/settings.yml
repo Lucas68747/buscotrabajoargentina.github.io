@@ -10,6 +10,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: Administración
 - type: document
   path: contacto-dashboard.md
   label: Contacto
