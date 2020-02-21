@@ -4,17 +4,19 @@ auto_deploy: false
 admin_path: "/login/"
 webhook_url: 
 sections:
-- type: document
-  path: contacto-dashboard.md
-  label: Contacto
-  match: "**/*"
-  read_only: true
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: contacto-dashboard.md
+  label: Contacto
+  read_only: true
+- type: document
+  path: aviso-dashboard.md
+  label: Avisos
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
