@@ -17,6 +17,7 @@ sections:
 - type: document
   path: aviso-dashboard.md
   label: Avisos
+  read_only: true
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
