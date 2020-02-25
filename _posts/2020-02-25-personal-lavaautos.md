@@ -2,7 +2,7 @@
 layout: post
 title: Personal Lavaautos
 categories: 'lavadero '
-img: "/lavaderodecoches.jpg"
+img: "/lavadero de autos.jpg"
 
 ---
 Se necesita Personal Lavaautos en Zona CABA.
