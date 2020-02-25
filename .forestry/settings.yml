@@ -22,8 +22,8 @@ sections:
   path: aviso-dashboard.md
   label: Avisos
   read_only: true
-upload_dir: images
-public_path: "/images"
+upload_dir: image
+public_path: "/image"
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
