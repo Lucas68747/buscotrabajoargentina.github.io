@@ -5,8 +5,6 @@ categories: vigilador
 img: "/vigilancia.jpg"
 
 ---
-Vigiladores
-
 Se necesitan Vigiladores en Zona CABA.
 
 Edad: 30 a 50 años.
