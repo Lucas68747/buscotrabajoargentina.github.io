@@ -2,7 +2,7 @@
 layout: post
 title: Lavadero de autos
 categories: 'lavadero '
-img: "/lavaderodecoches.jpg"
+img: "/lavadero de autos.jpg"
 
 ---
 Se necesita Personal para lavadero de autos en Zona CABA.
