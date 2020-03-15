@@ -8,21 +8,26 @@ layout: compress
   {% include head.html %}
 
   <body>
-
+  
    {% include header.html %}
-   
+  
   </div>
     <div class="container">
       <div class="wrapper">
+       
+        
         {{ content }}
       </div>
     </div>
 
     {% include footer.html %}
-    
+    {% include slider_scripts.html %}
+
+
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+  <script src="{{site.baseurl}}/js/ideal-image-slider.js"></script>
  {% if site.analytics %}{% include analytics.html %}{% endif %}
   </body>
 

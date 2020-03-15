@@ -3,7 +3,6 @@ layout: post
 title: Recepcionista
 categories: Atención al público
 img: "/vendedor01.jpg"
-
 ---
 Importante empresa ubicada en la Ciudad Autónoma de Buenos Aires.
 

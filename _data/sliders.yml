@@ -1,0 +1,11 @@
+- selector: slider3
+  images:
+    - src: /images/slider/slider-1.jpg
+      alt: image one
+    - src: /images/slider/slider-2.jpg
+      alt: image two
+    - src: /images/slider/slider-3.jpg
+      alt: image three
+  settings:
+    height: "'auto'"
+    disableNav: true
