@@ -25,7 +25,7 @@ sections:
 - type: directory
   path: https://analytics.google.com/analytics/web/#/report-home/a140961567w201991831p195866798
   label: Analytics
-  create: all
+  create: none
   match: "**/*"
 upload_dir: images
 public_path: "/images"
