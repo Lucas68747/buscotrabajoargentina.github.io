@@ -25,8 +25,7 @@ sections:
 - type: document
   path: https://analytics.google.com/analytics/web/#/report-home/a140961567w201991831p195866798
   label: Analytics
-  match: "**/*"
-  read_only: true
+  read_only: false
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
