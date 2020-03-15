@@ -22,11 +22,11 @@ sections:
   path: aviso-dashboard.md
   label: Avisos
   read_only: true
-- type: directory
+- type: document
   path: https://analytics.google.com/analytics/web/#/report-home/a140961567w201991831p195866798
   label: Analytics
-  create: none
   match: "**/*"
+  read_only: true
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
