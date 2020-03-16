@@ -1,9 +1,0 @@
----
-label: Slider
-hide_body: false
-fields:
-- name: slider
-  type: file
-  config:
-    maxSize: 250
-  label: Slider
