@@ -2,10 +2,13 @@
   images:
     - src: /images/slider/slider-1.jpg
       alt: image one
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
     - src: /images/slider/slider-2.jpg
       alt: image two
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
     - src: /images/slider/slider-3.jpg
       alt: image three
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
     height: "'auto'"
     disableNav: true
