@@ -1,0 +1,10 @@
+---
+label: slider2
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: list
+  name: image_sliders
+  label: image_sliders
