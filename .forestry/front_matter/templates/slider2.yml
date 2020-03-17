@@ -8,3 +8,7 @@ fields:
 - type: list
   name: image_sliders
   label: image_sliders
+  config:
+    use_select: true
+    source:
+      type: pages
