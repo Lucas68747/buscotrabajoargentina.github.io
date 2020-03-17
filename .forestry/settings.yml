@@ -12,6 +12,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: _data/sliders.yml
+  label: Slider
 - type: heading
   label: Administración
 - type: document
@@ -22,9 +25,6 @@ sections:
   path: aviso-dashboard.md
   label: Avisos
   read_only: true
-- type: document
-  path: _data/sliders.yml
-  label: Slider
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
