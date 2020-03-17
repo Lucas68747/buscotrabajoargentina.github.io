@@ -22,6 +22,11 @@ sections:
   path: aviso-dashboard.md
   label: Avisos
   read_only: true
+- type: document
+  path: slider.md
+  label: Slider
+  match: "**/*"
+  read_only: false
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
