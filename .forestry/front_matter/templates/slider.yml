@@ -1,0 +1,12 @@
+---
+label: Slider
+hide_body: true
+fields:
+- name: imagen
+  type: blocks
+  label: slider
+  template_types:
+  - pagina
+  config:
+    min: 
+    max: 
