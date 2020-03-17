@@ -23,7 +23,7 @@ sections:
   label: Avisos
   read_only: true
 - type: document
-  path: slider.md
+  path: _includes/slider.html
   label: Slider
 upload_dir: images
 public_path: "/images"
