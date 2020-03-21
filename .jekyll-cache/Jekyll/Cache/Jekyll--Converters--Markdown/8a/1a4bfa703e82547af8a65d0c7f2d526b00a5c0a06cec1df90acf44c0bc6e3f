@@ -1,0 +1,44 @@
+I"≤<p>Para enviarnos consultas sobre los empleos publicados u otra inquietud, realiz√° el siguiente formulario.</p>
+
+<html>
+ <script type="text/javascript">var submitted=false;</script>
+         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/buscotrabajoargentina.github.io/buscotrabajoargentina.github.io/gracias-por-contactarse/';}"></iframe>
+
+<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScMZfOU8OMGQ1ywERNSjuVOk5FbCOOSR97KepyEtfYElMkyPA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+
+    <div>
+        <fieldset>
+            <legend>Nombre y Apellido</legend>
+    <input name="entry.714850082" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Email</legend>
+    <input name="entry.1114703371" type="email" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Asunto</legend>
+    <input name="entry.985354390" type="text" size="40" required="" />
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+        <fieldset>
+            <legend>Mensaje</legend>
+            <textarea name="entry.1631857976" rows="4" cols="40" placeholder="Escriba algo" required=""></textarea>
+        </fieldset>
+    </div>
+    &nbsp;
+    <div>
+    <input type="submit" value="Enviar" />
+    </div>
+
+</form>
+</html>
+
+:ET
