@@ -1,7 +1,7 @@
 ---
 - selector: slider3
   images:
-  - src: "/images/slider/coronavirus.jpg"
+  - src: "/images/coronavirus.jpg"
     alt: coronavirus-post
     href: https://www.buscotrabajocaba.com/blog/
   - src: "/images/slider/posteo-1.png"
