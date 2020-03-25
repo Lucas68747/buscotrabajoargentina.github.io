@@ -7,9 +7,9 @@
   - src: "/images/coronavirus-1.jpg"
     alt: coronavirus-post
     href: https://www.buscotrabajocaba.com/blog/
-  - src: "/images/slider/currículum.jpg"
+  - src: "/images/currículum.jpg"
     alt: image three
-    href: https://www.buscotrabajocaba.com/blog/introducci%C3%B3n-al-blog/
+    href: https://www.buscotrabajocaba.com/blog/
   settings:
     height: "'auto'"
     disableNav: true
