@@ -1,12 +1,12 @@
 ---
 - selector: slider3
   images:
+  - src: "/images/entrevista.jpg"
+    alt: image two
+    href: https://www.buscotrabajocaba.com/blog/
   - src: "/images/coronavirus-1.jpg"
     alt: coronavirus-post
     href: https://www.buscotrabajocaba.com/blog/
-  - src: "/images/slider/intro.jpg"
-    alt: image two
-    href: https://www.buscotrabajocaba.com/blog/introducci%C3%B3n-al-blog-1/
   - src: "/images/slider/currículum.jpg"
     alt: image three
     href: https://www.buscotrabajocaba.com/blog/introducci%C3%B3n-al-blog/
