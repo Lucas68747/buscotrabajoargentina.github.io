@@ -2,7 +2,7 @@
 layout: post
 title: Desarrollador de software
 categories: Desarrollador
-img: "/desarrollador.png"
+img: "/desarrollador.webp"
 
 ---
 Empresa contratante: Consultora de desarrollo de software (clientes US).

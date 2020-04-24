@@ -2,7 +2,7 @@
 layout: post
 title: Empleada doméstica
 categories: limpieza
-img: "/limpieza.png"
+img: "/limpieza.webp"
 
 ---
 Empleada doméstica.

@@ -2,7 +2,7 @@
 layout: post
 title: Operarias de Limpieza Industrial
 categories: Limpieza
-img: "/Plantilla-Web-publicaciones-limpieza.jpg"
+img: "/Plantilla-Web-publicaciones-limpieza.webp"
 
 ---
 Se necesitan Operarias de Limpieza Industrial en Olivos y San Martín, Zona Norte.

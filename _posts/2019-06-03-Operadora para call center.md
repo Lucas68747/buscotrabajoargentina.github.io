@@ -2,7 +2,7 @@
 layout: post
 title: Operadora para call center
 categories: hotel
-img: callcenter.png
+img: callcenter.webp
 ---
 
 COBERTEC SALUD.

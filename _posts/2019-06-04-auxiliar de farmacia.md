@@ -2,7 +2,7 @@
 layout: post
 title: Auxiliar de farmacia
 categories: farmacia
-img: farmacia.png
+img: farmacia.webp
 ---
 
 Se necesita Auxiliar de farmacia en Zona CABA.

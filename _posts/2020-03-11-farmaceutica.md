@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista de Dirección
 categories: Atención al público
-img: "/Plantilla-Web-publicaciones-atencion-al-publico.jpg"
+img: "/Plantilla-Web-publicaciones-atencion-al-publico.webp"
 
 ---
 Se busca empleada por zona de Puerto Madero.

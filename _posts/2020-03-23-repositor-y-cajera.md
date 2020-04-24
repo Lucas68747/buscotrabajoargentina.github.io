@@ -2,7 +2,7 @@
 layout: post
 title: Repositor y Cajera
 categories: repositor
-img: "/Plantilla-Web-publicaciones-MERCADO.jpg"
+img: "/Plantilla-Web-publicaciones-MERCADO.webp"
 
 ---
 Se necesita Repositor y Cajera para supermercado en Zona CABA.

@@ -2,7 +2,7 @@
 layout: post
 title: Cuidador/a
 categories: salud
-img: "/20190623_152107_0000.png"
+img: "/20190623_152107_0000.webp"
 
 ---
 Cuidador/a

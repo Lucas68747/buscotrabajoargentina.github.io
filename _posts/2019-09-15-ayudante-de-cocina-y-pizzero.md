@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de cocina y Pizzero
 categories: cocina
-img: "/ayudante de cocina.jpg"
+img: "/ayudante de cocina.webp"
 
 ---
 Se necesita ayudante de cocina y Pizzero para restaurante en Zona CABA.

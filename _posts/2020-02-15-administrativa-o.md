@@ -2,7 +2,7 @@
 layout: post
 title: Administrativa/o
 categories: Administracion
-img: "/vendedor01.jpg"
+img: "/vendedor01.webp"
 
 ---
 Se necesita Administrativa/o en Villa Devoto, Zona CABA.

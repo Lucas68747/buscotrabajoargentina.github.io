@@ -2,7 +2,7 @@
 layout: post
 title: Empleado de autoservicio
 categories: Atención al público
-img: "/Plantilla-Web-publicaciones-MERCADO.jpg"
+img: "/Plantilla-Web-publicaciones-MERCADO.webp"
 
 ---
 Se necesita Empleado para autoservicio en Vicente López, Zona Norte.

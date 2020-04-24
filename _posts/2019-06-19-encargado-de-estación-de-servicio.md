@@ -2,7 +2,7 @@
 layout: post
 title: Encargado de estación de servicio
 categories: Estación de servicio
-img: "/playero.png"
+img: "/playero.webp"
 
 ---
 Encargado de Estación de servicio.

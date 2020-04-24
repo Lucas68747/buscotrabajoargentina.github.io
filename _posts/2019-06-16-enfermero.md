@@ -2,7 +2,7 @@
 layout: post
 title: Enfermero/a
 categories: salud
-img: "/enfermera.png"
+img: "/enfermera.webp"
 
 ---
 Se busca Enfermero/a.

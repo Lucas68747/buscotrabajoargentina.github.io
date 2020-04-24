@@ -2,7 +2,7 @@
 layout: post
 title:  "Encargado Hotel Boutique"
 categories: hotel
-img: hotel.png
+img: hotel.webp
 ---
 
 **Nos encontramos en la búsqueda de personal para el puesto de Encargado Hotel Boutique.**

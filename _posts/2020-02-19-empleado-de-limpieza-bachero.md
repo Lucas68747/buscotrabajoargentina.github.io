@@ -2,7 +2,7 @@
 layout: post
 title: Empleado de limpieza/bachero
 categories: Limpieza
-img: "/Plantilla-Web-publicaciones-limpieza.jpg"
+img: "/Plantilla-Web-publicaciones-limpieza.webp"
 
 ---
 Se necesita **Empleado de limpieza/bachero** en CABA**.**

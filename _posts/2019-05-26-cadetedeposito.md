@@ -2,7 +2,7 @@
 layout: post
 title:  "Cadete para depósito"
 categories: cadete
-img: deposito.png
+img: deposito.webp
 ---
 
 

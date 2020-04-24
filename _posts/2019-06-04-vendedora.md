@@ -2,7 +2,7 @@
 layout: post
 title: Vendedora
 categories: vendedoras
-img: vendedora.png
+img: vendedora.webp
 ---
 
 Comercio de calzados se encuentra en la búsqueda de una Vendedora de Salón. 

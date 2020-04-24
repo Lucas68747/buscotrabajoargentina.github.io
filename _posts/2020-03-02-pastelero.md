@@ -2,7 +2,7 @@
 layout: post
 title: Pastelero
 categories: pastelero
-img: "/Plantilla-Web-publicaciones-pastelero.jpg"
+img: "/Plantilla-Web-publicaciones-pastelero.webp"
 
 ---
 Se necesita Pastelero para confitería en Zona CABA.

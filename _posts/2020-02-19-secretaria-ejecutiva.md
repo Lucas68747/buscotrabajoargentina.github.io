@@ -2,7 +2,7 @@
 layout: post
 title: Secretaria ejecutiva
 categories: Atención al público
-img: "/vendedor01.jpg"
+img: "/vendedor01.webp"
 
 ---
 Zona de trabajo: Devoto, CABA.

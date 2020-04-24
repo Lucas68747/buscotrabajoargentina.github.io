@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal para fábrica de pastas
-img: pastas.png
+img: pastas.webp
 
 ---
 

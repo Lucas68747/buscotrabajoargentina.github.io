@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista
 categories: Atención al público
-img: "/Plantilla-Web-publicaciones-atencion-al-publico.jpg"
+img: "/Plantilla-Web-publicaciones-atencion-al-publico.webp"
 
 ---
 Se busca recepcionista en zona de Retiro, CABA.

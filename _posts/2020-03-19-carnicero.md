@@ -2,7 +2,7 @@
 layout: post
 title: 'Carnicero '
 categories: carnicería
-img: "/carnicero.jpg"
+img: "/carnicero.webp"
 
 ---
 Se necesitan Carniceros para carnicería en Zona CABA.

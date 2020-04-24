@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista
 categories: Atención al público
-img: "/vendedor01.jpg"
+img: "/vendedor01.webp"
 ---
 Importante empresa ubicada en la Ciudad Autónoma de Buenos Aires.
 
@@ -18,4 +18,4 @@ Requisitos:
 
 Enviar CV a **cvba@searchsa.com.ar** 
 
-![flayer de recepcionista](/images/88426606_10158017598039096_7735044510194860032_n.jpg "flayer")
+![flayer de recepcionista](/images/88426606_10158017598039096_7735044510194860032_n.webp "flayer")

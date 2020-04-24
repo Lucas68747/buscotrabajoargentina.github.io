@@ -2,7 +2,7 @@
 layout: post
 title: Analista de infraestructura de sistemas
 categories: analista
-img: "/desarrollador.png"
+img: "/desarrollador.webp"
 
 ---
 Analista de infraestructura de sistemas.

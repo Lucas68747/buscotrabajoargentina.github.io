@@ -2,7 +2,7 @@
 layout: post
 title: Auxiliar de enfermería
 categories: salud
-img: "/enfermera.png"
+img: "/enfermera.webp"
 
 ---
 Se busca auxiliar de enfermería.

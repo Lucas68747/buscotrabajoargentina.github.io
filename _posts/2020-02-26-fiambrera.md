@@ -2,7 +2,7 @@
 layout: post
 title: Fiambrera
 categories: fiambreria
-img: "/fiambreria.png"
+img: "/fiambreria.webp"
 
 ---
 Se necesita Fiambrera para supermercado en Zona CABA.

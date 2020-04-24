@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de cocina.
 categories: cocina
-img: "/cocina-web.jpg"
+img: "/cocina-web.webp"
 
 ---
 Se necesita Ayudante de cocina para restaurante en Zona CABA.

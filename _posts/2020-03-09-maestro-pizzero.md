@@ -2,7 +2,7 @@
 layout: post
 title: Maestro Pizzero
 categories: pizzeria
-img: "/pizzero-web.jpg"
+img: "/pizzero-web.webp"
 
 ---
 Se necesita Pizzero para pizzería en Zona CABA.

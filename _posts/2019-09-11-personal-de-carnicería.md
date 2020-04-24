@@ -2,7 +2,7 @@
 layout: post
 title: Personal de carnicería
 categories: ''
-img: "/carnicero.jpg"
+img: "/carnicero.webp"
 
 ---
 Se necesita Personal para carnicería en Zona Sur. (Quilmes)

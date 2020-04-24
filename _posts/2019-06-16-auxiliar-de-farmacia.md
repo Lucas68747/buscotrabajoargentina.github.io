@@ -2,7 +2,7 @@
 layout: post
 title: Auxiliar de farmacia
 categories: salud
-img: "/farmacia.png"
+img: "/farmacia.webp"
 
 ---
 Se necesita Empleado/a para Farmacia en Martínez, Zona Norte.

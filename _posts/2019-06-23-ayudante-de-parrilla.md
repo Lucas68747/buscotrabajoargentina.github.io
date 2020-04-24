@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de parrilla
 categories: Comida
-img: "/20190619_134105_0000.png"
+img: "/20190619_134105_0000.webp"
 
 ---
 Se necesita Ayudante de parrilla en Zona CABA.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Empleado Afip
-img: secretaria.png
+img: secretaria.webp
 ---
 
 

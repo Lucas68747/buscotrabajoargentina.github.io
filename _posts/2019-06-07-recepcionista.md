@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista
 categories: secretaria
-img: secretaria.png
+img: secretaria.webp
 ---
 
 Buscamos jóvenes con buena presencia, dicción, energía, dinamismo y entusiasmo.

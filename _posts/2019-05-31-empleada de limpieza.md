@@ -2,7 +2,7 @@
 layout: post
 title: Empleada de limpieza
 categories: limpieza
-img: limpieza.png
+img: limpieza.webp
 ---
 Importante empresa dedicada a la fabricación de electrodomésticos ubicada en la zona de Lomas del Mirador, se encuentra en la búsqueda de un Operario de limpieza, en principio para cubrir licencia por vacaciones de dos semanas.
 

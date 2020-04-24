@@ -2,7 +2,7 @@
 layout: post
 title:  "Peón de limpieza"
 categories: limpieza
-img: limpieza.png
+img: limpieza.webp
 ---
 
 

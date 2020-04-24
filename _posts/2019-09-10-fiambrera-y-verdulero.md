@@ -2,7 +2,7 @@
 layout: post
 title: Fiambrera y verdulero
 categories: atención al publico
-img: "/fiambreria.png"
+img: "/fiambreria.webp"
 
 ---
 Se necesita Fiambrera y Verdulero para supermercado en Zona CABA.

@@ -2,7 +2,7 @@
 layout: post
 title: Mozo de salón
 categories: Atención al público
-img: "/Plantilla-Web-publicaciones-CAMARERO.jpg"
+img: "/Plantilla-Web-publicaciones-CAMARERO.webp"
 
 ---
 

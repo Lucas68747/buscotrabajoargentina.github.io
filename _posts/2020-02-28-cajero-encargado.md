@@ -2,7 +2,7 @@
 layout: post
 title: Cajero Encargado
 categories: cajero
-img: "/cajero-web.jpg"
+img: "/cajero-web.webp"
 
 ---
 Se necesita Cajero Encargado para restaurante en Zona CABA.

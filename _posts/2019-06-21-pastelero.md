@@ -2,7 +2,7 @@
 layout: post
 title: Pastelero
 categories: Repostero
-img: "/20190621_124852_0000.png"
+img: "/20190621_124852_0000.webp"
 
 ---
 Se necesita pastelero.
@@ -13,7 +13,7 @@ Se necesita pastelero.
 
 **Local**: "Manjares Dulces".
 
-![](/images/Adobe_Post_20190621_133330.png)
+![](/images/Adobe_Post_20190621_133330.webp)
 
 Se busca persona con disponibilidad full-time y responsable.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Personal de limpieza
 categories: limpieza
-img: limpieza.png
+img: limpieza.webp
 ---
 
 Estamos en la búsqueda de Personal limpieza para Importante Fundación en Zona CABA. 

@@ -2,7 +2,7 @@
 layout: post
 title: Operario en depósito
 categories: logística
-img: "/Plantilla Web publicaciones-2.png"
+img: "/Plantilla Web publicaciones-2.webp"
 
 ---
 Importante Empresa de Logística y encomiendas incorpora Operadores de carga y descarga para Turno Tarde (17:00 hs a 00.30)

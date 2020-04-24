@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante Sandwichero
 categories: cocina
-img: "/ayudante de cocina.jpg"
+img: "/ayudante de cocina.webp"
 
 ---
 

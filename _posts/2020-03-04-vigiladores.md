@@ -2,7 +2,7 @@
 layout: post
 title: Vigiladores
 categories: vigilador
-img: "/vigilancia.jpg"
+img: "/vigilancia.webp"
 
 ---
 Se necesitan Vigiladores en Zona CABA.

@@ -2,7 +2,7 @@
 layout: post
 title: Empleado de limpieza
 categories: limpieza
-img: "/Plantilla-Web-publicaciones-limpieza.jpg"
+img: "/Plantilla-Web-publicaciones-limpieza.webp"
 
 ---
 Se necesita Empleado de limpieza para panadería en Zona CABA.

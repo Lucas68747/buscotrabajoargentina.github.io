@@ -2,7 +2,7 @@
 layout: post
 title: Repositor
 categories: repositor
-img: "/Plantilla-Web-publicaciones-MERCADO.jpg"
+img: "/Plantilla-Web-publicaciones-MERCADO.webp"
 
 ---
 Se necesita repositor/a para la la red de tiendas de DÍA en caba.

@@ -2,7 +2,7 @@
 layout: post
 title: Asistente back office
 categories: logística
-img: logistica.png
+img: logistica.webp
 ---
 
 **LV Consultores** está en búsqueda de una Asistente back office-logística para empresa de tecnología.

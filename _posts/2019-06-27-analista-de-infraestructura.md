@@ -2,7 +2,7 @@
 layout: post
 title: Analista de Infraestructura
 categories: ''
-img: "/desarrollador.png"
+img: "/desarrollador.webp"
 
 ---
 

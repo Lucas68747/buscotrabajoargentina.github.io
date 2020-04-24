@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de cocina, Cocinero y cafetero.
 categories: cocina
-img: "/cocina-web.jpg"
+img: "/cocina-web.webp"
 
 ---
 Se necesita Ayudante de cocina, Cocinero y Cafetero para cafetería en Zona CABA.

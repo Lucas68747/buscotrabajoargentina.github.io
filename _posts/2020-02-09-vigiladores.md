@@ -2,7 +2,7 @@
 layout: post
 title: Vigiladores
 categories: Seguridad
-img: "/vigilancia.jpg"
+img: "/vigilancia.webp"
 
 ---
 Se necesitan Vigiladores para importante empresa de seguridad en CABA y Zona Norte.

@@ -2,7 +2,7 @@
 layout: post
 title: Supervisor
 categories: supervisor
-img: supervisor.png
+img: supervisor.webp
 ---
 
 Empresa de Seguridad se encuentra en la búsqueda de Supervisor para Zona CABA y Zona NORTE (GBA). 

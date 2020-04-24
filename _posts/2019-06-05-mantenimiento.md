@@ -2,7 +2,7 @@
 layout: post
 title: Mantenimiento y limpieza
 categories: mantenimiento
-img: mantenimiento.png
+img: mantenimiento.webp
 ---
 
 

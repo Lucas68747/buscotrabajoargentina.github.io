@@ -2,7 +2,7 @@
 layout: post
 title: Personal doméstico
 categories: limpieza
-img: limpieza.png
+img: limpieza.webp
 ---
 
 Para zona de Tigre buscamos personal doméstico con experiencia y referencias comprobables.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Secretaria"
 categories: Secretaria
-img: secretaria.png
+img: secretaria.webp
 ---
 Importante empresa ubicada en la Zona Sur de Gran Buenos Aires, se encuentra en la búsqueda de una persona para ocupar la posición de Secretaria de Gerencia General.
 

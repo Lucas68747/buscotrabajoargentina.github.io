@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista / Encargado
 categories: Atención al público
-img: "/recepcion-urgente.jpg"
+img: "/recepcion-urgente.webp"
 
 ---
 Se necesita Recepcionista / Encargado en la zona de San Cristóbal.

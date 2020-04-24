@@ -2,7 +2,7 @@
 layout: post
 title: Vendedora
 categories: vendedora
-img: "/vendedor01.jpg"
+img: "/vendedor01.webp"
 
 ---
 Se necesita Vendedora para local de carteras en Zona CABA.

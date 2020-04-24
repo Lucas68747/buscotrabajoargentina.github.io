@@ -2,7 +2,7 @@
 layout: post
 title: Desarrollador Full Stack
 categories: desarrollador
-img: desarrollador.png
+img: desarrollador.webp
 ---
 
 Para reconocido laboratorio Farmacéutico, nos encontramos en la búsqueda de Desarrollador Full Stack.

@@ -2,7 +2,7 @@
 layout: post
 title: Recepcionista
 categories: recepcionista
-img: "/vendedor01.jpg"
+img: "/vendedor01.webp"
 
 ---
 Se necesita Recepcionista para Hotel Boutique en Palermo, Zona CABA.

@@ -2,7 +2,7 @@
 layout: post
 title: Personal de limpieza
 categories: limpieza
-img: limpieza.png
+img: limpieza.webp
 ---
 
 **Adecco Hoteles y Catering.**

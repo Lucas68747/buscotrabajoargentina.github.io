@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Repositores
-img: repositor.png
+img: repositor.webp
 ---
 
 

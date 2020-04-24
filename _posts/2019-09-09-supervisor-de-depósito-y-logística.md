@@ -2,7 +2,7 @@
 layout: post
 title: Supervisor de depósito y logística
 categories: logística
-img: "/Plantilla Web publicaciones-2.png"
+img: "/Plantilla Web publicaciones-2.webp"
 
 ---
 Empresa encargada de la venta al por mayor de repuestos del automotor solicita personal para el puesto de Supervisor de depósito y logística, opción a tiempo completo.

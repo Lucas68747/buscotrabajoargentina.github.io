@@ -2,7 +2,7 @@
 layout: post
 title: Especialista en Seguridad IT
 categories: seguridad
-img: "/seginformatica.jpg"
+img: "/seginformatica.webp"
 
 ---
 Se busca especialista en seguridad para empresa multinacional del área IT.

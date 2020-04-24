@@ -2,7 +2,7 @@
 layout: post
 title:  "Enfermero/a"
 categories: hotel
-img: enfermera.png
+img: enfermera.webp
 ---
 
 

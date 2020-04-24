@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de cocina y bachero
 categories: bachero
-img: "/bacheroweb.jpg"
+img: "/bacheroweb.webp"
 
 ---
 Se necesita Ayudante de Cocina y Bachero en Belgrano, Zona CABA.

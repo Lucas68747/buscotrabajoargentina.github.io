@@ -2,7 +2,7 @@
 layout: post
 title: Personal para depósito
 categories: depósito
-img: deposito.png
+img: deposito.webp
 ---
 {% include cartelrojo.html %}
 

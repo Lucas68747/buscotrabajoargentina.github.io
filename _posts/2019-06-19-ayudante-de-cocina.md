@@ -2,7 +2,7 @@
 layout: post
 title: Ayudante de cocina
 categories: cocinero
-img: "/20190619_134105_0000.png"
+img: "/20190619_134105_0000.webp"
 
 ---
 Ayudante de cocina.

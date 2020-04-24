@@ -2,7 +2,7 @@
 layout: post
 title: Mozo de salón
 categories: mozo
-img: "/Plantilla-Web-publicaciones-CAMARERO.jpg"
+img: "/Plantilla-Web-publicaciones-CAMARERO.webp"
 
 ---
 Se necesita Mozo de salón para restaurante en Zona CABA.
