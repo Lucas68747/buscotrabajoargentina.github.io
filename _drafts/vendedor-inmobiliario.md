@@ -23,7 +23,7 @@ Ambición de crecimiento económico. Actitud emprendedora. Experiencia en el rub
 
 **Horarios**: Part Time.
 
-**E-mail de contacto**: **invictus@remax.com.ar** 
+**Enviar CV al siguiente e-mail**: **invictus@remax.com.ar** 
 
 ##### _IMPORTANTE: La entrevista se hace vía ZOOM._
 
