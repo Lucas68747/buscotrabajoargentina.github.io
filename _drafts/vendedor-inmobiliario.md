@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vendedor Inmobiliario
+title: Vendedor/a Inmobiliario
 categories: Ventas
 img: ''
 
