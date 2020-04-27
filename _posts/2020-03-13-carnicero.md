@@ -2,7 +2,7 @@
 layout: post
 title: 'Carnicero '
 categories: carnicería
-img: "/Plantilla-Web-publicaciones-CARNICERO.webp"
+img: "/carnicero.webp"
 
 ---
 Se necesita Carnicero depostador con herramientas en Zona CABA.
