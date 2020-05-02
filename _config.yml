@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sitio Web con ofertas de trabajo en CABA.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://buscotrabajocaba.com" # the base hostname & protocol for your site
+url: "https://www.buscotrabajocaba.com" # the base hostname & protocol for your site
 
 
 # Build settings
